@@ -1,2 +1,2 @@
 # OpenCV
-To find, leran OpenCV 
+To find, learn OpenCV 
